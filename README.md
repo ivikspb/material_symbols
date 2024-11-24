@@ -1,5 +1,5 @@
 # material_symbols
-Material Design Icons from Google
+Material Design Icons from Google in Odoo
 
 Full icons list: https://fonts.google.com/icons
 

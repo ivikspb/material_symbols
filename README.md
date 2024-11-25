@@ -1,7 +1,7 @@
 # material_symbols
 Material Design Icons from Google in Odoo
 
-Full icons list: https://fonts.google.com/icons
+Full list of icons: https://fonts.google.com/icons
 
 # How to use
 <pre> &lt;i class="mso mso-search"/> </pre>
